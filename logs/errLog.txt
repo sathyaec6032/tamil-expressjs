@@ -1,0 +1,8 @@
+20240219	15:20:51	815ec690-fb52-4ae3-8086-3969abfd52b5	Error: Not allowed by CORS
+20240219	15:20:52	38930751-52e6-4f5b-905e-c17bdf0204f9	Error: Not allowed by CORS
+20240219	15:21:11	529c9a5d-a018-460a-8f01-1deb55f8fbd9	Error: Not allowed by CORS
+20240219	15:21:12	c44413e8-5d7e-4ef0-833d-601c590e3fc0	Error: Not allowed by CORS
+20240219	15:23:08	0becd422-b8a9-4ee0-8712-67ff7f6a7479	Error: Not allowed by CORS
+20240219	15:23:08	0501f6e6-75f0-4d2c-8e6f-01a4fe60ca17	Error: Not allowed by CORS
+20240219	15:24:22	52c8ffdb-5407-4bb3-aabc-583ced01d085	Error: Not allowed by CORS
+20240219	15:24:22	909d0c44-fc50-47bf-8601-76c0a7c8e2e4	Error: Not allowed by CORS
